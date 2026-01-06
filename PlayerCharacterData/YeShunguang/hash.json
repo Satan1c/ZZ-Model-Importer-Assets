@@ -176,6 +176,48 @@
         ]
     },
     {
+        "component_name": "BackHairBraids",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "e05bf3a8",
+        "position_vb": "b871ef41",
+        "blend_vb": "06e29dd2",
+        "texcoord_vb": "d7d41552",
+        "ib": "38b3bd13",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            4086
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "804099eb"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "5ca93726"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "1ba6bebf"
+                ]
+            ]
+        ]
+    },
+    {
         "component_name": "Legs",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "25033e92",
