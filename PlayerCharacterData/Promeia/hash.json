@@ -1,0 +1,257 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "2d4c7c18",
+        "position_vb": "35096cb6",
+        "blend_vb": "5a263750",
+        "texcoord_vb": "9c0aad96",
+        "ib": "6cca89ab",
+        "object_indexes": [
+            0,
+            23427
+        ],
+        "object_index_counts": [
+            23427,
+            6120
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c96de436"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e34356a6"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "6bed1450"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c96de436"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e34356a6"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "6bed1450"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Torso",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "dd86f5ae",
+        "position_vb": "a7769c93",
+        "blend_vb": "61c399b6",
+        "texcoord_vb": "bfcfb2f7",
+        "ib": "a633d5b7",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            37074
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ae109401"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "3864f20c"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "d57df6aa"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Legs",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "dfb01010",
+        "position_vb": "595bd76e",
+        "blend_vb": "fd3c3d9f",
+        "texcoord_vb": "2918714e",
+        "ib": "21871660",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            30030
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ae109401"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "3864f20c"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "d57df6aa"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Coat",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "947f29ae",
+        "position_vb": "d43597aa",
+        "blend_vb": "870f56b5",
+        "texcoord_vb": "9f083955",
+        "ib": "68f34958",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            15468
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b9367016"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "d743acd0"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "31d7cbad"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Eyebrows",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "42594132",
+        "texcoord_vb": "",
+        "ib": "cb9d17fc",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            228
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "9b293811"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "5ff41c34",
+        "texcoord_vb": "",
+        "ib": "5ea47a32",
+        "object_indexes": [
+            0,
+            7008,
+            9300
+        ],
+        "object_index_counts": [
+            7008,
+            2292,
+            1104
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "9b293811"
+                ]
+            ],
+            [],
+            []
+        ]
+    }
+]
