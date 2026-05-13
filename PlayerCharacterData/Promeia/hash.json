@@ -3,10 +3,10 @@
         "component_name": "Hair",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "2d4c7c18",
-        "position_vb": "35096cb6",
-        "blend_vb": "5a263750",
-        "texcoord_vb": "9c0aad96",
-        "ib": "6cca89ab",
+        "position_vb": "681aceaa",
+        "blend_vb": "3d4a4881",
+        "texcoord_vb": "84d40d91",
+        "ib": "31178971",
         "object_indexes": [
             0,
             23427
@@ -69,11 +69,11 @@
     {
         "component_name": "Torso",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "dd86f5ae",
-        "position_vb": "a7769c93",
-        "blend_vb": "61c399b6",
-        "texcoord_vb": "bfcfb2f7",
-        "ib": "a633d5b7",
+        "draw_vb": "19ad87f6",
+        "position_vb": "ffaa183a",
+        "blend_vb": "dae4abd0",
+        "texcoord_vb": "2a9842a1",
+        "ib": "36e794ea",
         "object_indexes": [
             0
         ],
@@ -112,10 +112,10 @@
         "component_name": "Legs",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "dfb01010",
-        "position_vb": "595bd76e",
-        "blend_vb": "fd3c3d9f",
-        "texcoord_vb": "2918714e",
-        "ib": "21871660",
+        "position_vb": "0b822797",
+        "blend_vb": "9839b071",
+        "texcoord_vb": "f5fd0e92",
+        "ib": "fd054d1d",
         "object_indexes": [
             0
         ],
@@ -154,10 +154,10 @@
         "component_name": "Coat",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "947f29ae",
-        "position_vb": "d43597aa",
-        "blend_vb": "870f56b5",
-        "texcoord_vb": "9f083955",
-        "ib": "68f34958",
+        "position_vb": "1d63183b",
+        "blend_vb": "58f42be3",
+        "texcoord_vb": "826446a7",
+        "ib": "93f1f568",
         "object_indexes": [
             0
         ],
@@ -199,7 +199,7 @@
         "position_vb": "",
         "blend_vb": "42594132",
         "texcoord_vb": "",
-        "ib": "cb9d17fc",
+        "ib": "e032287a",
         "object_indexes": [
             0
         ],
@@ -224,9 +224,9 @@
         "root_vs": "",
         "draw_vb": "",
         "position_vb": "",
-        "blend_vb": "5ff41c34",
+        "blend_vb": "bf5b785d",
         "texcoord_vb": "",
-        "ib": "5ea47a32",
+        "ib": "ef3c4506",
         "object_indexes": [
             0,
             7008,
