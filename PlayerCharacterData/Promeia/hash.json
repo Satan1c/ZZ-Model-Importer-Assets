@@ -108,6 +108,48 @@
             ]
         ]
     },
+	{
+        "component_name": "NoCoatTorso",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "9cce6ba2",
+        "position_vb": "bf938187",
+        "blend_vb": "575d8b1b",
+        "texcoord_vb": "d99d21e0",
+        "ib": "62a6b4bd",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            39510
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ae109401"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "3864f20c"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "d57df6aa"
+                ]
+            ]
+        ]
+    },
     {
         "component_name": "Legs",
         "root_vs": "e8425f64cfb887cd",
