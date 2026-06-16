@@ -1,0 +1,161 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "56b1d7f1",
+        "position_vb": "db608bcf",
+        "blend_vb": "06f47d71",
+        "texcoord_vb": "f5b6e5b5",
+        "ib": "b518e540",
+        "object_indexes": [
+            0,
+            28002,
+            34542,
+            63093
+        ],
+        "object_index_counts": [
+            28002,
+            6540,
+            28551,
+            2304
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "e9a912e7"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "54c0f79a"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "7498bd49"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8459c5e8"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "c7bdc86b"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "c50582f7"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "10e8bc53"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "1da6b5bf"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "eb5755d6"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "e9a912e7"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "54c0f79a"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "7498bd49"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "4aae3329",
+        "texcoord_vb": "",
+        "ib": "ebb6a59b",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            19965
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ed361b8f"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "96280008"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "57446a22"
+                ]
+            ]
+        ]
+    }
+]
