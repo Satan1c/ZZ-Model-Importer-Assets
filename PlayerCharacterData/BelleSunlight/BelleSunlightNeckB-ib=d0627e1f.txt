@@ -1,0 +1,18 @@
+byte offset: 0
+first index: 960
+index count: 36
+topology: trianglelist
+format: DXGI_FORMAT_R16_UINT
+
+238 239 240
+238 240 241
+242 243 238
+242 238 241
+244 240 239
+244 239 245
+243 242 246
+243 246 247
+248 249 247
+248 247 246
+250 251 244
+250 244 245
