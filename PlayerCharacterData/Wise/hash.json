@@ -4,11 +4,14 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "ef9c0510",
         "position_vb": "e8df7ff3",
-        "blend_vb": "edfd1666",
+        "blend_vb": "68e4f572",
         "texcoord_vb": "774071dd",
         "ib": "d5ca0411",
         "object_indexes": [
             0
+        ],
+        "object_index_counts": [
+            18564
         ],
         "object_classifications": [
             "A"
@@ -43,11 +46,14 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "b581dc0a",
         "position_vb": "67f21c9f",
-        "blend_vb": "46462bd8",
+        "blend_vb": "03dadd2a",
         "texcoord_vb": "91fbd2fa",
         "ib": "8d6acf4e",
         "object_indexes": [
             0
+        ],
+        "object_index_counts": [
+            38760
         ],
         "object_classifications": [
             "A"
@@ -57,7 +63,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "868709f2"
+                    "a9652fa4"
                 ],
                 [
                     "NormalMap",
@@ -87,6 +93,9 @@
         "ib": "b1df5d22",
         "object_indexes": [
             0
+        ],
+        "object_index_counts": [
+            2727
         ],
         "object_classifications": [
             "A"
@@ -121,12 +130,16 @@
         "root_vs": "",
         "draw_vb": "",
         "position_vb": "",
-        "blend_vb": "",
+        "blend_vb": "015fbf96",
         "texcoord_vb": "",
         "ib": "1fdaf388",
         "object_indexes": [
             0,
             9258
+        ],
+        "object_index_counts": [
+            9258,
+            876
         ],
         "object_classifications": [
             "A",
