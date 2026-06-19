@@ -4,7 +4,7 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "ef9c0510",
         "position_vb": "e8df7ff3",
-        "blend_vb": "edfd1666",
+        "blend_vb": "68e4f572",
         "texcoord_vb": "774071dd",
         "ib": "d5ca0411",
         "object_indexes": [
@@ -46,7 +46,7 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "ca02f614",
         "position_vb": "a388eb6b",
-        "blend_vb": "8612559a",
+        "blend_vb": "f28a6363",
         "texcoord_vb": "b39870e1",
         "ib": "1eca2097",
         "object_indexes": [
@@ -63,7 +63,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "81406abe"
+                    "669191ec"
                 ],
                 [
                     "NormalMap",
@@ -88,7 +88,7 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "276e1373",
         "position_vb": "d8ad824b",
-        "blend_vb": "458bbde3",
+        "blend_vb": "e0b1e734",
         "texcoord_vb": "39a1dfe3",
         "ib": "01c42a1d",
         "object_indexes": [
@@ -105,7 +105,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "81406abe"
+                    "669191ec"
                 ],
                 [
                     "NormalMap",
@@ -172,7 +172,7 @@
         "root_vs": "",
         "draw_vb": "",
         "position_vb": "",
-        "blend_vb": "",
+        "blend_vb": "015fbf96",
         "texcoord_vb": "",
         "ib": "1fdaf388",
         "object_indexes": [
