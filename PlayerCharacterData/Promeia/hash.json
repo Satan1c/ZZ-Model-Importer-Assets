@@ -69,11 +69,11 @@
     {
         "component_name": "Torso",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "19ad87f6",
-        "position_vb": "ffaa183a",
-        "blend_vb": "dae4abd0",
-        "texcoord_vb": "2a9842a1",
-        "ib": "36e794ea",
+        "draw_vb": "dd86f5ae",
+        "position_vb": "68e2baef",
+        "blend_vb": "112582ea",
+        "texcoord_vb": "6fe5f8c1",
+        "ib": "b386901d",
         "object_indexes": [
             0
         ],
@@ -112,10 +112,10 @@
         "component_name": "NoCoatTorso",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "9cce6ba2",
-        "position_vb": "bf938187",
-        "blend_vb": "575d8b1b",
-        "texcoord_vb": "d99d21e0",
-        "ib": "62a6b4bd",
+        "position_vb": "2dbfe8c9",
+        "blend_vb": "ee35cc06",
+        "texcoord_vb": "1fc95f5b",
+        "ib": "10c77d62",
         "object_indexes": [
             0
         ],
@@ -154,10 +154,10 @@
         "component_name": "Legs",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "dfb01010",
-        "position_vb": "0b822797",
-        "blend_vb": "9839b071",
-        "texcoord_vb": "f5fd0e92",
-        "ib": "fd054d1d",
+        "position_vb": "4c1d0a70",
+        "blend_vb": "65bba179",
+        "texcoord_vb": "03d6f933",
+        "ib": "ec003379",
         "object_indexes": [
             0
         ],
@@ -196,10 +196,10 @@
         "component_name": "Coat",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "947f29ae",
-        "position_vb": "1d63183b",
-        "blend_vb": "58f42be3",
-        "texcoord_vb": "826446a7",
-        "ib": "93f1f568",
+        "position_vb": "f6cc27b6",
+        "blend_vb": "4b0d6867",
+        "texcoord_vb": "bf00cc95",
+        "ib": "0ae14c24",
         "object_indexes": [
             0
         ],
@@ -214,7 +214,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "b9367016"
+                    "e1492a53"
                 ],
                 [
                     "NormalMap",
@@ -224,12 +224,12 @@
                 [
                     "LightMap",
                     ".dds",
-                    "d743acd0"
+                    "9bf7f5cc"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "31d7cbad"
+                    "d37b40a9"
                 ]
             ]
         ]
