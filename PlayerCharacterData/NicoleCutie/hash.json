@@ -131,7 +131,7 @@
         "draw_vb": "bb7fffe9",
         "position_vb": "176bf3d7",
         "blend_vb": "4e1d9c9a",
-        "texcoord_vb": "077c3500",
+        "texcoord_vb": "f9f810ed",
         "ib": "40e64ae2",
         "object_indexes": [
             0
@@ -172,9 +172,9 @@
         "root_vs": "",
         "draw_vb": "",
         "position_vb": "",
-        "blend_vb": "",
+        "blend_vb": "292d1b1f",
         "texcoord_vb": "",
-        "ib": "7435fc0e",
+        "ib": "93b02078",
         "object_indexes": [
             0,
             9456
