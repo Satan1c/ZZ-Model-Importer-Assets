@@ -165,7 +165,7 @@
         ]
     },
     {
-        "component_name": "BottleGlass",
+        "component_name": "Ink",
         "root_vs": "",
         "draw_vb": "24481cb5",
         "position_vb": "24481cb5",
@@ -179,28 +179,7 @@
             "A"
         ],
         "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "7e38b38b"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "ebac056e"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "086ac064"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "83b02982"
-                ]
-            ]
+            []
         ]
     },
     {
