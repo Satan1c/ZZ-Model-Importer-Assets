@@ -2,13 +2,16 @@
     {
         "component_name": "Hair",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "f6344432",
-        "position_vb": "199853eb",
-        "blend_vb": "347e4a48",
-        "texcoord_vb": "06e4fd79",
-        "ib": "6847bbbd",
+        "draw_vb": "d9b8d61a",
+        "position_vb": "6f931ca7",
+        "blend_vb": "8171f5c9",
+        "texcoord_vb": "e04f4893",
+        "ib": "7dcfe907",
         "object_indexes": [
             0
+        ],
+        "object_index_counts": [
+            31491
         ],
         "object_classifications": [
             "A"
@@ -41,14 +44,18 @@
     {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "8cc1262b",
-        "position_vb": "89df5a07",
-        "blend_vb": "7ecda89f",
-        "texcoord_vb": "91c1b779",
-        "ib": "5a4c1ef3",
+        "draw_vb": "b19da99e",
+        "position_vb": "4af0a4cd",
+        "blend_vb": "b793c804",
+        "texcoord_vb": "ed4c47a9",
+        "ib": "e53364dd",
         "object_indexes": [
             0,
             46683
+        ],
+        "object_index_counts": [
+            46683,
+            318
         ],
         "object_classifications": [
             "A",
@@ -107,10 +114,13 @@
         "draw_vb": "bb7fffe9",
         "position_vb": "176bf3d7",
         "blend_vb": "4e1d9c9a",
-        "texcoord_vb": "077c3500",
+        "texcoord_vb": "f9f810ed",
         "ib": "40e64ae2",
         "object_indexes": [
             0
+        ],
+        "object_index_counts": [
+            2760
         ],
         "object_classifications": [
             "A"
@@ -145,12 +155,16 @@
         "root_vs": "",
         "draw_vb": "",
         "position_vb": "",
-        "blend_vb": "",
-        "texcoord_vb": "5714e5e6",
-        "ib": "7435fc0e",
+        "blend_vb": "292d1b1f",
+        "texcoord_vb": "",
+        "ib": "93b02078",
         "object_indexes": [
             0,
             9456
+        ],
+        "object_index_counts": [
+            9456,
+            966
         ],
         "object_classifications": [
             "A",
