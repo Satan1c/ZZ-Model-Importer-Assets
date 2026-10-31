@@ -4,7 +4,7 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "20a4edef",
         "position_vb": "3f76f9c3",
-        "blend_vb": "a7fc2b98",
+        "blend_vb": "c970fca0",
         "texcoord_vb": "97a6b567",
         "ib": "d1e30827",
         "object_indexes": [
@@ -71,7 +71,7 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "e085bc47",
         "position_vb": "a0ea50ef",
-        "blend_vb": "89e781e6",
+        "blend_vb": "ae086472",
         "texcoord_vb": "85f8b8c0",
         "ib": "7efbdabd",
         "object_indexes": [
